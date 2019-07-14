@@ -1,0 +1,17 @@
+{
+	"Token": "NTAyMTgxOTIwNTIwNzk4MjA4.XSpj5w.orPm-eW9klysbY-tK0LmarRKChY",
+	"PokecordPrefix": "p!",
+	"UserbotPrefix": "p/",
+	"OwnerID": 502170335718801419,
+	"EnableLogging": true,
+	"EnableCatchResponse": true,
+	"CatchResponse": "p!info latest",
+	"WhitelistedPokemon": ["Rayquaza", "Mew", "Shaymin", "Bidoof", "Starly", "MEME"],
+	"CatchMinDelay": 500,
+	"CatchMaxDelay": 1000,
+	"SpamChannelID": 598715031927914526,
+	"SpammerMinDelay": 3000,
+	"SpammerMaxDelay": 4500,
+	"SpammerMessages": ["david has 10 bowling balls", "my name jeff", "THE PAIN", "SAVE ME"],
+	"WhitelistedGuilds": [504457309343318045, 594553881493766175, 595751773856071690]
+}
